@@ -1,0 +1,15 @@
+.container.main {
+    margin-top: 7em;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+#delete {
+    display: inline;
+}
+
+#footerMenu {
+    margin-top: 5em;
+}
